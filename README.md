@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Crypto wallet using Rust.<br>an anti virus written in pure rust using multiple detection vectors<br><br>👯 I’m looking to collaborate on<br>Just about anything within reason<br><br>🤝 I’m looking for help with<br>Basically anything frontend related<br><br>🌱 I’m currently learning<br>Rust on a daily<br>ReactJS<br><br>💬 Ask me about<br>Anything you like, i'm pretty open about myself.
+🔭 I’m currently working on<br>Crypto wallet using Rust.<br>an anti virus written in pure rust using multiple detection vectors<br><br>👯 I’m looking to collaborate on<br>Just about anything within reason<br><br>🤝 I’m looking for help with<br>Basically anything frontend related<br><br>🌱 I’m currently learning<br>Rust on a daily<br>ReactJS and VueJS<br><br>💬 Ask me about<br>Anything you like, i'm pretty open about myself.
 
 
 ## 🌐 Socials:
